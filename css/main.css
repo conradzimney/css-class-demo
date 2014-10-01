@@ -33,6 +33,8 @@ footer {
 
 .menu {
 	background-color: #8ADF00;
+	border: 3px solid #000;
+	margin-bottom: 50px;
 }
 
 header p {
